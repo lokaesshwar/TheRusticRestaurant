@@ -1,0 +1,1 @@
+The Rustic Restaurant is a demo project that highlights my web development skills. It utilizes a React-based front-end alongside a back-end stack of Node.js, Express, and MongoDB. This project was created to showcase my technical expertise and explore the integration of modern web technologies.
